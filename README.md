@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I’m Abdul-Samad 👋
 
-<!--
-**Nuurab/Nuurab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 **Focus Areas**:  
+- Network & System Administration  
+- Cybersecurity  
 
-Here are some ideas to get you started:
+🎓 **Certifications**:  
+- CompTIA Network+  
+- ISC2 Certified in Cybersecurity (CC)  
+- Cisco Networking Fundamentals & Networking Devices and Configuration  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 **What I’m Working On**:  
+- Building homelabs with Windows Server, Linux, and Active Directory  
+- Practicing network design & security, monitoring, and troubleshooting  
+- Exploring IT automation and open-source security tools  
+
+🚀 **Goals**:  
+To grow as a Net/SysAdmin and Cybersecurity professional while documenting my journey through hands-on projects.  
+
+📫 **Let’s Connect**:  
+- [LinkedIn](https://www.linkedin.com/in/abdul-samad-nuur/) 
+ 
+
+---
+⭐️ Feel free to check out my repositories for projects, labs, and experiments in IT & Cybersecurity!
